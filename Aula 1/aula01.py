@@ -1,0 +1,5 @@
+print('Olá, mundo!')
+print('Seja bem vindo!!')
+print('Tudo bem')    
+print('Vai dar tudo certo!')
+print('Amanda')
